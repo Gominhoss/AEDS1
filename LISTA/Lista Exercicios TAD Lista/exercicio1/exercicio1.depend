@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1723821598 source:c:\users\vitor\onedrive\documentos\desktop\facul\2024-1\aeds1\lista\lista exercicios tad lista\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1723822105 source:c:\users\vitor\onedrive\Área de trabalho\teste.c
+	<stdio.h>
+	<stdlib.h>
+

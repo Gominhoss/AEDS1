@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724094101 source:c:\users\vitor\onedrive\documentos\desktop\facul\2024-1\aeds1\fila\lista tad fila\questao2tadfila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
